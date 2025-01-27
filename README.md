@@ -7,10 +7,10 @@ Data Cleaning and Transformation: Cleaned and formatted raw student data using E
 
 ## Performance Analysis:
 
-###Pass Rate: 61.11% students passed, and 38.89% failed.
-###Grades Distribution: 33.33% scored B+ grades, while 16.67% failed.
-###Top and Bottom Performers: M. Mounika (315 marks) ranked highest, while Vj Simha (207 marks) was the lowest.
-###Admission Insights: Regular admission students scored 55.56% higher grade points compared to lateral entry students.
+### Pass Rate: 61.11% students passed, and 38.89% failed.
+### Grades Distribution: 33.33% scored B+ grades, while 16.67% failed.
+### Top and Bottom Performers: M. Mounika (315 marks) ranked highest, while Vj Simha (207 marks) was the lowest.
+### Admission Insights: Regular admission students scored 55.56% higher grade points compared to lateral entry students.
 
 ## Gender Insights: Balanced academic performance with a 50:50 male-to-female ratio.
 ## Automated Reporting: Enabled actionable insights, saving 75% time in analysis and improving accuracy by 30%.
