@@ -15,8 +15,8 @@ Data Cleaning and Transformation: Cleaned and formatted raw student data using E
 #### Automated Reporting: Enabled actionable insights, saving 75% time in analysis and improving accuracy by 30%.
 
 # Tools and Technologies Used
-### Excel: Data preparation, logical formulas, and transformations.
-### Power BI: Data visualization and DAX for calculating key metrics like pass rates, grade points, and distributions.
+#### Excel: Data preparation, logical formulas, and transformations.
+#### Power BI: Data visualization and DAX for calculating key metrics like pass rates, grade points, and distributions.
 
 # Key Outcomes
 Enhanced academic performance tracking by 40% through clear and actionable visualizations.
