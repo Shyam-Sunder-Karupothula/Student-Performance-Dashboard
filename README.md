@@ -18,7 +18,7 @@ Data Cleaning and Transformation: Cleaned and formatted raw student data using E
 ## Excel: Data preparation, logical formulas, and transformations.
 ## Power BI: Data visualization and DAX for calculating key metrics like pass rates, grade points, and distributions.
 
-#Key Outcomes
+# Key Outcomes
 Enhanced academic performance tracking by 40% through clear and actionable visualizations.
 Enabled efficient decision-making for identifying areas of improvement and success.
 Streamlined reporting and analytics for educators and stakeholders.
