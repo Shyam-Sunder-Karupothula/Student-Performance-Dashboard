@@ -14,7 +14,7 @@ Developed an interactive Power BI dashboard to analyze students' academic perfor
 ### Gender Insights: Balanced academic performance with a 50:50 male-to-female ratio.
 ### Automated Reporting: Enabled actionable insights, saving 75% time in analysis and improving accuracy by 30%.
 
-#Tools and Technologies Used
+# Tools and Technologies Used
 ## Excel: Data preparation, logical formulas, and transformations.
 ## Power BI: Data visualization and DAX for calculating key metrics like pass rates, grade points, and distributions.
 
