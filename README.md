@@ -3,7 +3,7 @@
 Developed an interactive Power BI dashboard to analyze students' academic performance across multiple dimensions. Utilized Excel for data cleaning and transformation and DAX in Power BI for creating dynamic insights, ensuring data accuracy and efficiency.
 
 ## Key Features
-Data Cleaning and Transformation: Cleaned and formatted raw student data using Excel formulas, including logical functions for calculating pass/fail results and total marks.
+### Data Cleaning and Transformation: Cleaned and formatted raw student data using Excel formulas, including logical functions for calculating pass/fail results and total marks.
 
 ## Performance Analysis:
 
