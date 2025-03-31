@@ -1,7 +1,7 @@
 # 4-2 Sem Results Dashboard
 
 ## Description
-Developed an interactive Power BI dashboard to analyze students' academic performance across multiple dimensions. Utilized Excel for data cleaning and transformation and DAX in Power BI for creating dynamic insights, ensuring data accuracy and efficiency.
+Developed an interactive Power BI dashboard to analyze students academic performance across multiple dimensions. Utilized Excel for data cleaning and transformation and DAX in Power BI for creating dynamic insights, ensuring data accuracy and efficiency.
 
 ## Key Features
 
